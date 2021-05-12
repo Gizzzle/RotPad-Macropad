@@ -1,0 +1,20 @@
+Id;Designator;Package;Part;Quantity;Supplier and ref;Stock
+2;D16,D1,D8,D18,D17,D15,D14,D13,D12,D11,D10,D9,D7,D6,D5,D4,D3,D2;D_SOD123;1N4148 Switching Diode;18;https://lcsc.com/product-detail/Switching-Diode_Diodes-Incorporated-1N4148W-7-F_C83528.html;10
+4;OLED1;PinHeader_1x04_P2.54mm_Vertical;OLED Display 0.91 Inch 128 x 32;1;https://de.aliexpress.com/item/32850288143.html?spm=a2g0o.productlist.0.0.17af668bvmSwej&algo_pvid=fd47285a-c19a-4812-aaf7-fe66d098483f&algo_expid=fd47285a-c19a-4812-aaf7-fe66d098483f-0&btsid=2100bde316137385532861191e3838&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_;0
+5;J_ISP1;Reset_Pretty-Mask;Pin Header 6 Pins 2 Rows;1;;19
+6;K1, K2, K3, K4, K5, K6, K7, K8, K9, K10, K11, K12, K13, K14, K15, K16;MX-1U-NoLED;Mechanical Keyswitch;16;;
+22;U1;TQFP-44_10x10mm_P0.8mm;ATMEGA32U4;1;https://lcsc.com/product-detail/ATMEL-AVR_Microchip-Tech-ATMEGA32U4-AU_C44854.html;0
+23;C1,C2;C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;22pF 0805 SMD Capacitor;2;https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_22pF-220-1-50V_C190088.html;44
+24;D24,D19,D20,D21,D22,D23;LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;WS2812B LED;6;https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-B_C114586.html;0
+25;C8;C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;1uF 0805 SMD Capacitor;1;https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21B105KOFNNNE_C24123.html;47
+26;Y1;Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering;16MHz Crystal;1;https://lcsc.com/product-detail/SMD-Crystals_YSX321SL-16MHZ-18PF-10PPM-40-85_C70562.html;3
+27;C3,C4,C5,C6;C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;100nF 0805 SMD Capacitor;4;https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_100nF-104-5-50V_C29926.html;8
+28;C7;C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;10uF 0805 SMD Capacitor;1;https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Murata-Electronics-GRM21BR61E106KA73L_C84416.html;0
+29;F1;Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder;500mA Resettable Fuse;1;https://lcsc.com/product-detail/Surface-Mount-Fuses_Littelfuse_RF1347-000_Littelfuse-RF1347-000_C207193.html;7
+30;R1,R2;R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;10k 0805 SMD Resistor;2;https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_Uniroyal-Elec-0805W8F1002T5E_C17414.html;87
+31;SW1;SW_SPST_TL3342;SMD Reset Switch;1;https://lcsc.com/product-detail/Tactile-Switches_Korean-Hroparts-Elec-K2-1187SQ-C4SW-06_C108649.html;7
+32;SW2,SW3;RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm;EC11E Rotary Encoder;2;https://lcsc.com/product-detail/Coded-Rotary-Switches_ALPSALPINE-EC11E15244J8_C1322540.html;
+33;U2;SOT143B;Low Capacitance TVS Diode Array;1;https://lcsc.com/product-detail/TVS_TECH-PUBLIC-TPPRTR5V0U2X_C558444.html;3
+34;UR1,UR2;R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;22 0805 SMD Resistor;2;https://lcsc.com/product-detail/High-Precision-Low-TCR-SMD-Resistors_22R-1-25PPM_C65068.html;43
+35;UR3,UR4;R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;5.1K 0805 SMD Resistor;2;https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_BOURNS-CR0805-FX-5101ELF_C204548.html;94
+36;USB1;HRO-TYPE-C-31-M-12-HandSoldering;USB Type C Port;1;https://lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html;3
